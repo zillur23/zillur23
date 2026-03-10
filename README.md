@@ -40,3 +40,21 @@
 ## 🌐 Website
 
 https://sreza.com
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zillurrahman&show_icons=true)
+
+## 🔥 GitHub Streak
+
+![GitHub streak](https://streak-stats.demolab.com/?user=zillurrahman)
+
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zillurrahman&layout=compact)
+
+## 🚀 Tech Stack
+
+WordPress | PHP | JavaScript | HTML | CSS | MySQL | WP-CLI | Git
+
+
