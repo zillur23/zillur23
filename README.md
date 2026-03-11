@@ -43,15 +43,15 @@ https://sreza.com
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zillurrahman&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zillur23&show_icons=true)
 
 ## 🔥 GitHub Streak
 
-![GitHub streak](https://streak-stats.demolab.com/?user=zillurrahman)
+![GitHub streak](https://streak-stats.demolab.com/?user=zillur23)
 
 ## 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zillurrahman&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zillur23&layout=compact)
 
 ## 🚀 Tech Stack
 
