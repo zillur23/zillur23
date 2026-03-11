@@ -3,7 +3,7 @@
 💻 Support Engineer ( Technical | WordPress )
 🔧 Specialized in debugging Elementor, WooCommerce, plugin conflicts, Customer Support, Ticket Solving, Documentation Writing. 
 📍 Bangladesh  
-
+ 
 ---
 
 ## 🚀 About Me
@@ -115,8 +115,12 @@ WordPress | PHP | JavaScript | HTML | CSS | MySQL | WP-CLI | Git
 
 ## 🤝 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/zillur23/ 
-GitHub: https://github.com/zillur23 
-WeChat: https://u.wechat.com/kOBOX3TeeygAqawv9yLo1l?s=2
+ ## 🤝 Connect With Me
+
+📧 Email: tozillur23@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/zillur23  
+🐙 GitHub: https://github.com/zillur23
+📱 Phone: +8801784122841  
+💬 WhatsApp: https://wa.me/qr/D664DBET7J65P1
 
 
