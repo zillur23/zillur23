@@ -3,7 +3,7 @@
 💻 Support Engineer ( Technical | WordPress )
 🔧 Specialized in debugging Elementor, WooCommerce, plugin conflicts, Customer Support, Ticket Solving, Documentation Writing. 
 📍 Bangladesh  
- 
+📄 [Resume](https://drive.google.com/file/d/1giXwH36Q6MMld68HsCebBAIqCTLfXSCR/view?usp=sharing)
 ---
 
 ## 🚀 About Me
